@@ -6,4 +6,4 @@ if number > 10000 & number < 99999:
     fourth_digit = number // 10 % 10
     fifth_digit = number % 10
 
-print(first_digit, second_digit, third_digit, fourth_digit, fifth_digit)
+    print(first_digit, second_digit, third_digit, fourth_digit, fifth_digit)
