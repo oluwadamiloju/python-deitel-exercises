@@ -33,7 +33,7 @@ print(third_triangle())
 
 def fourth_triangle():
     for line in range(1, 11):
-        for spaces in range(9, line -1, -1):
+        for spaces in range(9, line - 1, -1):
             print(" ", end="")
         for stars in range(1, line):
             print("*", end="")
