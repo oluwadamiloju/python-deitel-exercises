@@ -1,3 +1,7 @@
+# 3.8 (Arithmetic, Smallest and Largest) In Exercise 2.10, you wrote a script that input
+# three integers, then displayed the sum, average, product, smallest and largest of those values.
+# Reimplement your script with a loop that inputs four integers
+
 sum_of_numbers = 0
 average_of_numbers = 0
 product_of_numbers = 1

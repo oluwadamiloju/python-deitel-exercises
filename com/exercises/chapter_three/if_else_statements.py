@@ -1,4 +1,5 @@
-"""Comparing integers using if statements and comparison operators."""
+# 3.5 (if…else Statements) Reimplement the script of Fig. 2.1 using three if…else statements
+# rather than six if statements. [Hint: For example, think of == and != as “opposite” tests.]
 
 print('Enter two integers, and I will tell you',
       'the relationships they satisfy.')
