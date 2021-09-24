@@ -1,3 +1,15 @@
+# 2.9 (Integer Value of a Character) Here’s a peek ahead. In this chapter, you learned
+# about strings. Each of a string’s characters has an integer representation.
+# The set of characters a computer uses together with the characters’ integer representations is called
+# that  computer’s character set. You can indicate a character value in a program by enclosing that
+# character in quotes, as in 'A'. To determine a character’s integer value, call the built-in
+# function ord:
+
+    # In [1]: ord('A')
+    # Out[1]: 65
+
+# Display the integer equivalents of B C D b c d 0 1 2 $ * + and the space character.
+
 print("The integer value of B is", ord('B'))
 print("The integer value of C is", ord('C'))
 print("The integer value of D is", ord('D'))
