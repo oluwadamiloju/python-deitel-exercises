@@ -40,4 +40,3 @@ if number_of_guesses <= 10:
     print("Either you know the secret or you got lucky!")
 else:
     print("You should be able to do better!")
-
