@@ -49,7 +49,9 @@ while projected != actual:
         print("Very good!")
     else:
         print("No. Please try again.")
-else:
+
+
+while projected == actual:
     rnd = random_number_generation()
     display_question(rnd)
     actual = correct_answer(rnd)
